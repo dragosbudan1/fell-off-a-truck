@@ -1,0 +1,19 @@
+{
+  "mode": "prod",
+  "minStockIn": 1,
+  "sendSmsEnabled": true,
+  "sendEmailEnabled": true,
+  "headless": false,
+  "linkIndex": 2,
+  "twilio" : {
+      "sid": "twilio_id",
+      "authToken": "twilio_authToken",
+      "fromPhoneNo": "twilio_phone",
+      "toPhoneNo": "your_phone"
+  },
+  "mail": {
+      "fromEmail": "",
+      "fromPassword": "",
+      "toEmail": ""
+  } 
+}

@@ -1,0 +1,19 @@
+{
+  "name": "wigglescalper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-cookies": "^1.2.0",
+    "chromedriver": "^87.0.4",
+    "nconf": "^0.11.0",
+    "nodemailer": "^6.4.17",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "twilio": "^3.54.2"
+  }
+}
